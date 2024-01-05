@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="four.xsl" type="text/xsl"?>
+
+<cd>
+    
+    <collection>
+        <tittle>empire burlesque</tittle>
+        <artist>bob dylan</artist>
+    </collection>
+
+    <collection>
+        <tittle>hide your heart</tittle>
+        <artist>bonnie tyler</artist>
+    </collection>
+
+    <collection>
+        <tittle>greatest hits</tittle>
+        <artist>dolly parton</artist>
+    </collection>
+
+    <collection>
+        <tittle>still got the blues</tittle>
+        <artist>gary moore</artist>
+    </collection>
+
+    <collection>
+        <tittle>eros</tittle>
+        <artist>eros ramazzotti</artist>
+    </collection>
+
+    <collection>
+        <tittle>one night only</tittle>
+        <artist>bee gees</artist>
+    </collection>
+
+    <collection>
+        <tittle>sylvias mother</tittle>
+        <artist>dr hook</artist>
+    </collection>
+
+    <collection>
+        <tittle>maggie may</tittle>
+        <artist>rod stewart</artist>
+    </collection>
+
+    <collection>
+        <tittle>romanza</tittle>
+        <artist>andrea bocelli</artist>
+    </collection>
+
+    <collection>
+        <tittle>when a man loves a woman</tittle>
+        <artist>percy sledge</artist>
+    </collection>
+
+    <collection>
+        <tittle>black angel</tittle>
+        <artist>savage rose</artist>
+    </collection>
+
+    <collection>
+        <tittle>1999 grammy nominees</tittle>
+        <artist>many</artist>
+    </collection>
+
+    <collection>
+        <tittle>for the good times</tittle>
+        <artist>kenny rogers</artist>
+    </collection>
+
+    <collection>
+        <tittle>big willie style</tittle>
+        <artist>will smith</artist>
+    </collection>
+
+    <collection>
+        <tittle>tupelo honey</tittle>
+        <artist>van morrison</artist>
+    </collection>
+
+    <collection>
+        <tittle>soulsville</tittle>
+        <artist>jom hoel</artist>
+    </collection>
+
+    <collection>
+        <tittle>the very best of</tittle>
+        <artist>cat stevens</artist>
+    </collection>
+
+    <collection>
+        <tittle>stop</tittle>
+        <artist>sam brown</artist>
+    </collection>
+
+    <collection>
+        <tittle>bridge of spies</tittle>
+        <artist>t pau</artist>
+    </collection>
+
+    <collection>
+        <tittle>romanza</tittle>
+        <artist>savage rose</artist>
+    </collection>
+
+</cd>

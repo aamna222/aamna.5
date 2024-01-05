@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="three.xsl" type="text/xsl"?>
+
+<bank>
+    
+    <employee>
+        <id>10234</id>
+        <name>ADEEL</name>
+        <salary>18000</salary>
+        <joining-date>2-2-2015</joining-date>
+        <position>MANAGER</position>
+    </employee>
+
+    <employee>
+        <id>10235</id>
+        <name>usaid</name>
+        <salary>18000</salary>
+        <joining-date>2-2-2015</joining-date>
+        <position>ceo</position>
+    </employee>
+
+    <employee>
+        <id>10236</id>
+        <name>hanzala</name>
+        <salary>18000</salary>
+        <joining-date>2-2-2015</joining-date>
+        <position>manager</position>
+    </employee>
+
+    <employee>
+        <id>10237</id>
+        <name>bilal</name>
+        <salary>18000</salary>
+        <joining-date>2-2-2015</joining-date>
+        <position>manager</position>
+    </employee>
+
+    <employee>
+        <id>10238</id>
+        <name>ahmed</name>
+        <salary>18000</salary>
+        <joining-date>2-2-2015</joining-date>
+        <position>md</position>
+    </employee>
+</bank>
